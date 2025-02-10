@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: documentation.aux
+The style file: plain.bst
+Database file #1: ref.bib
+Warning--empty journal in wah2011caltech
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            537 strings with 5567 characters,
+and the built_in function-call counts, 3563 in all, are:
+= -- 342
+> -- 208
+< -- 4
++ -- 83
+- -- 74
+* -- 242
+:= -- 566
+add.period$ -- 25
+call.type$ -- 8
+change.case$ -- 60
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 135
+empty$ -- 247
+format.name$ -- 74
+if$ -- 761
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 7
+newline$ -- 42
+num.names$ -- 16
+pop$ -- 79
+preamble$ -- 1
+purify$ -- 52
+quote$ -- 0
+skip$ -- 115
+stack$ -- 0
+substring$ -- 193
+swap$ -- 53
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 1
+while$ -- 28
+width$ -- 9
+write$ -- 85
+(There was 1 warning)

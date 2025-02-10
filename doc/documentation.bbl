@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{bau2017networkdissectionquantifyinginterpretability}
+David Bau, Bolei Zhou, Aditya Khosla, Aude Oliva, and Antonio Torralba.
+\newblock Network dissection: Quantifying interpretability of deep visual representations, 2017.
+
+\bibitem{botev2017nesterov}
+Aleksandar Botev, Guy Lever, and David Barber.
+\newblock Nesterov's accelerated gradient and momentum as approximations to regularised update descent.
+\newblock {\em arXiv preprint arXiv:1706.08298}, 2017.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and pattern recognition}, pages 770--778, 2016.
+
+\bibitem{kim2018interpretability}
+Been Kim, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, et~al.
+\newblock Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav).
+\newblock In {\em International conference on machine learning}, pages 2668--2677. PMLR, 2018.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{koh2020concept}
+Pang~Wei Koh, Thao Nguyen, Yew~Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, and Percy Liang.
+\newblock Concept bottleneck models.
+\newblock In {\em International conference on machine learning}, pages 5338--5348. PMLR, 2020.
+
+\bibitem{szegedy2016rethinking}
+Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jon Shlens, and Zbigniew Wojna.
+\newblock Rethinking the inception architecture for computer vision.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and pattern recognition}, pages 2818--2826, 2016.
+
+\bibitem{wah2011caltech}
+Catherine Wah, Steve Branson, Peter Welinder, Pietro Perona, and Serge Belongie.
+\newblock The caltech-ucsd birds-200-2011 dataset.
+\newblock 2011.
+
+\end{thebibliography}
